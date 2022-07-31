@@ -1,5 +1,5 @@
   -    👋 Hi, I’m @MarianelaRamirez
-- 👀 I’m interested in la creacion de programa y pasarla bien creandolo           
+- 👀 Me gustan los animales, la programacion, y pasarla bien!           
 - 🌱 I’m currently learning  programación con el curso de Argentina Programa                                        
 - "Estudiante de Desarrollador de Software"                 
 
