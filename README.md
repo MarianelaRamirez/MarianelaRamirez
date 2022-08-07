@@ -1,7 +1,6 @@
-  -    👋 Hi, I’m @MarianelaRamirez
-- 👀 Me gustan los animales, la programacion, y pasarla bien!           
-- 🌱 I’m currently learning  programación con el curso de Argentina Programa                                        
-- "Estudiante de Desarrollador de Software"                 
+  -    👋 Hi, I’m @MarianelaRamirez       
+- 🌱Actualmente estoy aprendiendo programación con el curso de Argentina Programa                                        
+- Soy estudiante de "Desarrollador de Software"                 
 
 <!--- 
 MarianelaRamirez/MarianelaRamirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
